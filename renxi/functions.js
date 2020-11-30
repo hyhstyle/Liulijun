@@ -1,8 +1,8 @@
 /*
  * @Author: your name
  * @Date: 2020-07-23 09:20:52
- * @LastEditTime: 2020-07-23 10:00:56
- * @LastEditors: your name
+ * @LastEditTime: 2020-11-30 18:55:22
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \OneMapV2.0e:\学习\githurb\foryou\renxi\functions.js
  */ 
@@ -41,7 +41,7 @@ $(window).resize(function() {
 })(jQuery);
 
 function timeElapse(date) {
-	 var date1= '2020/07/23 00:00:00';  //开始时间  
+	 var date1= '2020/10/18 00:00:00';  //开始时间  
     // var date2 = new Date();    //结束时间  
 	var current =new Date();
 	
